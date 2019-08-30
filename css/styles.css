@@ -1,0 +1,47 @@
+.navbar-brand {
+    margin-left: 30px;
+    font-size: 24px;
+}
+
+#navbar-items {
+    background-color: lightgray;
+    width: 100%;
+    margin: 8px -16px -8px -16px;
+    border-bottom: 1px solid black;
+}
+
+#nav-list li {
+    border-bottom: 1px solid black;
+}
+
+#nav-list a {
+    color: black;
+    text-align: center;
+    font-size: 17px;
+}
+
+#nav-list li:nth-child(3) {
+    border: 0;
+}
+
+#menu-header {
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.row {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.food-content {
+    background-color: lightgray;
+}
+
+.food-content h3 {
+    font-weight: bold;
+}
+
+.food-content p {
+    padding: 10px;
+}
