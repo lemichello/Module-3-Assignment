@@ -44,3 +44,8 @@
 .food-content p {
     padding: 10px;
 }
+
+.food-content a {
+    display: block;
+    padding: 10px;
+}
